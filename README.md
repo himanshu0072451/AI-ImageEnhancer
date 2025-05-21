@@ -35,7 +35,7 @@ Contributions are welcome! Feel free to fork this repo and open pull requests.
 
 ## 🌐 Live Demo
 ```bash 
-👉 https://himanshu0072451.github.io/AI-ImageEnhancer/
+👉 https://himanshu0072451.github.io/Ai-ImageEnhancer/
 ```
 
 ## ✍️ Made with ❤️ by Himanshu
